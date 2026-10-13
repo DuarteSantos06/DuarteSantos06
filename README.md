@@ -18,10 +18,16 @@ Computer Science and Engineering student at **FCT NOVA** (Lisbon), focused on **
 ### Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,rust,linux,java,spring,postgres,docker,gcp,git&perline=9" alt="C, Rust, Linux, Java, Spring, PostgreSQL, Docker, Google Cloud, Git" />
-</p>
-<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Assembly-x86--64%20%7C%20ARM64-6E4C13?style=for-the-badge" alt="Assembly x86-64 | ARM64" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Networking-TCP%2FUDP%20%7C%20Sockets-0A66C2?style=for-the-badge" alt="Networking" />
 </p>
 
