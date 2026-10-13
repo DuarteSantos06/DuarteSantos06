@@ -4,8 +4,8 @@ Computer Science and Engineering student at **FCT NOVA** (Lisbon), focused on **
 
 - 🔐 Interested in protocol design and systems security
 - 🧱 Comfortable close to the metal: C, x86-64 / ARM64 assembly, Linux systems programming, sockets
-- 💼 Project Director @ [In-Nova Junior Enterprise](https://www.linkedin.com/company/in-nova) · NTT DATA Student Ambassador
-- 🛠️ Backend internship @ Nmbrs (2026) — migrating endpoints to a BFF architecture
+- 💼 Project Director @ [In-Nova Junior Enterprise](https://innova.pt/pt) · NTT DATA Student Ambassador
+- 🛠️ Backend internship @ [Nmbrs](https://www.nmbrs.com/nl/) (2026) — migrating endpoints to a BFF architecture
 
 ### Projects
 
