@@ -11,8 +11,8 @@ Computer Science and Engineering student at **FCT NOVA** (Lisbon), focused on **
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**Sealed-udp**](https://github.com/DuarteSantos06/Sealed-udp) | File-transfer protocol over UDP built from scratch, with an X25519 key-exchange handshake (encryption in progress) | Rust |
 | [**httpserver**](https://github.com/DuarteSantos06/httpserver) | HTTP server written from scratch | C |
-| [**VPN**](https://github.com/DuarteSantos06/VPN) | VPN implementation | C |
 | [**Malloc_assembly**](https://github.com/DuarteSantos06/Malloc_assembly) | Memory allocator written in assembly | Assembly |
 
 ### Stack
@@ -33,4 +33,4 @@ Computer Science and Engineering student at **FCT NOVA** (Lisbon), focused on **
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/duartejpsantos) · djp.santos@campus.fct.unl.pt
+[LinkedIn](https://www.linkedin.com/in/duartejpsantos) · djp.santos06@gmail.com
