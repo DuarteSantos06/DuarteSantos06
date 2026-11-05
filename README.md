@@ -11,9 +11,9 @@ Computer Science and Engineering student at **FCT NOVA** (Lisbon), focused on **
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**Sealed-udp**](https://github.com/DuarteSantos06/Sealed-udp) | File-transfer protocol over UDP built from scratch, with an X25519 key-exchange handshake (encryption in progress) | Rust |
-| [**httpserver**](https://github.com/DuarteSantos06/httpserver) | HTTP server written from scratch | C |
-| [**Malloc_assembly**](https://github.com/DuarteSantos06/Malloc_assembly) | Memory allocator written in assembly | Assembly |
+| [**VPN**](https://github.com/DuarteSantos06/VPN) | Layer 3 VPN built from scratch for Linux, with an authenticated X25519 handshake, forward secrecy, XChaCha20-Poly1305 encryption and replay protection | C |
+| [**httpserver**](https://github.com/DuarteSantos06/httpserver) | Asynchronous HTTP/1.1 server built from scratch with epoll, reaching ~259k req/s on a 4 vCPU VPS | C |
+| [**Malloc_assembly**](https://github.com/DuarteSantos06/Malloc_assembly) | First-fit memory allocator in ARM64 assembly, with no libc and raw mmap syscalls | Assembly |
 
 ### Stack
 
