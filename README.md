@@ -4,6 +4,7 @@ Computer Science and Engineering student at **FCT NOVA** (Lisbon), building **lo
 
 - 🔐 Protocol design, applied cryptography and systems security
 - 🧱 Close to the metal: C, x86-64 / ARM64 assembly, Linux systems programming, sockets
+- 🔭 Currently working on a [load balancer in Rust](https://github.com/DuarteSantos06/Load_Balancer): consistent hashing, caching and rate limiting
 - 🛠️ Backend intern @ [Nmbrs](https://www.nmbrs.com) (2026) — migrating endpoints to a BFF architecture
 - 💼 Project Director @ [In-Nova Junior Enterprise](LINK_IN_NOVA)
 
