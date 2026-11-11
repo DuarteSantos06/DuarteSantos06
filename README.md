@@ -12,7 +12,7 @@ Computer Science and Engineering student at **FCT NOVA** (Lisbon), building **lo
 
 | Project | What it is | Stack |
 |---|---|---|
-| [VPN](https://github.com/DuarteSantos06/VPN) | Layer 3 VPN for Linux with a PSK-authenticated X25519 handshake, forward secrecy, XChaCha20-Poly1305 and a 64-packet replay window. Tested end-to-end across network namespaces. | C · libsodium |
+| [VPN](https://github.com/DuarteSantos06/VPN) | Layer 3 VPN for Linux with a PSK-authenticated X25519 handshake, forward secrecy, XChaCha20-Poly1305 and a 64-packet replay window. Tested end-to-end across network namespaces. | C |
 | [httpserver](https://github.com/DuarteSantos06/httpserver) | Asynchronous HTTP/1.1 server built from scratch with epoll, reaching ~259k req/s on a 4 vCPU VPS | C |
 | [Malloc_assembly](https://github.com/DuarteSantos06/Malloc_assembly) | First-fit memory allocator in ARM64 assembly, with no libc and raw mmap syscalls | ARM64 asm |
 | [Load_Balancer](https://github.com/DuarteSantos06/Load_Balancer) | Load balancer with consistent hashing, caching and rate limiting (work in progress) | Rust |
